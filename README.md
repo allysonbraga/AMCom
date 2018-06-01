@@ -6,7 +6,7 @@ Você deve carregar um arquivo, disponível no projeto src\AMcom.Teste.DAL, cont
 
 ### Instruções
 
-Para realizar o teste, faça um clone do repositório e após concluída a implementação, subir em um repositório no github ou enviar por e-mail para **selecao@amcom.com.br**. **IMPORTANTE: Se for enviar o projeto por e-mail, remover as pastas `bin` e `obj` de cada projeto e compactar o diretório da solução.**
+Para realizar o teste, faça um clone do repositório e após concluída a implementação, subir em um repositório no github ou enviar por e-mail para **removido por segurança**. **IMPORTANTE: Se for enviar o projeto por e-mail, remover as pastas `bin` e `obj` de cada projeto e compactar o diretório da solução.**
 
 ### Solução
 
